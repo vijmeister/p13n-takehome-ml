@@ -19,7 +19,7 @@ p13n-takehome-ml/
 All data is in csv format.
 
 ### Data Fields
-
+```
 id -- ad identifier
 click -- 0/1 for non-click/click
 hour -- format is YYMMDDHH, so 14091123 means 23:00 on Sept. 11, 2014 UTC.
@@ -37,6 +37,7 @@ device_model
 device_type
 device_conn_type
 C14-C21 -- anonymized categorical variables
+```
 
 ### File Descriptions
 
